@@ -1,11 +1,11 @@
 {
   "data": [
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNDU0NjcyNzQ=",
-      "name": "masterPortfolio",
-      "createdAt": "2020-03-06T16:26:54Z",
-      "url": "https://github.com/ashutosh1919/masterPortfolio",
-      "description": "The complete portfolio website hosted using github pages (gh-pages). Visit the website here : ",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTU5NTA2Mjg=",
+      "name": "rogertjr",
+      "createdAt": "2020-11-25T13:39:53Z",
+      "url": "https://github.com/rogertjr/rogertjr",
+      "description": null,
       "isFork": false,
       "languages": [
         {
@@ -15,94 +15,53 @@
         {
           "name": "CSS",
           "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
         }
       ]
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNjkwNzUwMjM=",
-      "name": "truvisory",
-      "createdAt": "2020-06-03T11:53:55Z",
-      "url": "https://github.com/ashutosh1919/truvisory",
-      "description": "This project is meant to provide resources to users who want to access good LinkedIn posts which contains resources to learn any Technology, Design, Self-Branding, Motivation etc. You can visit project by:",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTU5OTM0NzI=",
+      "name": "portfolio",
+      "createdAt": "2020-11-25T16:21:41Z",
+      "url": "https://github.com/rogertjr/portfolio",
+      "description": "WIP - My personal portfolio in ReactJS",
       "isFork": false,
-      "languages": [
-        {
-          "name": "HTML",
-          "iconifyClass": "logos-html-5"
-        },
-        {
-          "name": "CSS",
-          "iconifyClass": "logos-css-3"
-        },
-        {
-          "name": "JavaScript",
-          "iconifyClass": "logos-javascript"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyNzM1MTI1NTE=",
-      "name": "ml-data-bot",
-      "createdAt": "2020-06-19T14:24:55Z",
-      "url": "https://github.com/ashutosh1919/ml-data-bot",
-      "description": "Chatbot which helps you to get important statistics from the data to get insights to build Machine learning, Deep learning and Statistical models",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjc5NTU1ODY=",
+      "name": "CombineNetworkingSwift",
+      "createdAt": "2021-01-08T16:30:35Z",
+      "url": "https://github.com/rogertjr/CombineNetworkingSwift",
+      "description": "SwiftUI MVVM Combine Networking Fetching TMDB Data",
       "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkxNTU5NTE3NTk=",
-      "name": "Stock-Prediction-using-LSTM",
-      "createdAt": "2018-11-03T05:00:56Z",
-      "url": "https://github.com/ashutosh1919/Stock-Prediction-using-LSTM",
-      "description": "This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjg0MTYyNjc=",
+      "name": "PlaceholderLoadSwiftUI",
+      "createdAt": "2021-01-10T15:34:16Z",
+      "url": "https://github.com/rogertjr/PlaceholderLoadSwiftUI",
+      "description": "Using Placeholders While Loading Data in SwiftUI",
       "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        },
-        {
-          "name": "Jupyter Notebook",
-          "iconifyClass": "logos-jupyter"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkyMDIxNDc4ODA=",
-      "name": "Pick-Parser",
-      "createdAt": "2019-08-13T13:13:00Z",
-      "url": "https://github.com/dsc-iiitdmk/Pick-Parser",
-      "description": "This Project is to create a tool which can parse the Resumes and transform them into our own templates",
+      "id": "MDEwOlJlcG9zaXRvcnkzMTYwNzUxMzk=",
+      "name": "designCode",
+      "createdAt": "2020-11-25T23:21:25Z",
+      "url": "https://github.com/rogertjr/designCode",
+      "description": "An app written in SwiftUI",
       "isFork": false,
-      "languages": [
-        {
-          "name": "Python",
-          "iconifyClass": "logos-python"
-        }
-      ]
+      "languages": []
     },
     {
-      "id": "MDEwOlJlcG9zaXRvcnkxODIxMjk3NTQ=",
-      "name": "Survival_3D_Game",
-      "createdAt": "2019-04-18T17:25:51Z",
-      "url": "https://github.com/ashutosh1919/Survival_3D_Game",
-      "description": "Survival Game using Unity3D",
+      "id": "MDEwOlJlcG9zaXRvcnkzMjgzOTk4MzY=",
+      "name": "FoodDeliverySwiftUI",
+      "createdAt": "2021-01-10T14:17:02Z",
+      "url": "https://github.com/rogertjr/FoodDeliverySwiftUI",
+      "description": "Restaurant Detail UI built with SwiftUI 2.0",
       "isFork": false,
-      "languages": [
-        {
-          "name": "C#",
-          "iconifyClass": "logos-c-sharp"
-        }
-      ]
+      "languages": []
     }
   ]
 }
