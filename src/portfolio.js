@@ -9,7 +9,7 @@ const greeting = {
   logo_name: "",
   nickname: "rogertjr",
   subTitle:
-    "A passionate individual who always thrive to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
+    "A curious guy who always seeks knowledge, new technologies and solves some problems.",
   resumeLink: "#",
   portfolio_repository: "https://github.com/rogertjr/portfolio",
 };
@@ -41,7 +41,7 @@ const skills = {
       title: "Full Stack Development",
       fileName: "DevImg",
       skills: [
-        "⚡ Building resposive website front end using VueJS",
+        "⚡ Building resposive website frontend using VueJS",
         "⚡ Developing mobile applications using React Native and native iOS apps using Swift",
         "⚡ Creating application backend in Laravel, NodeJS & Express",
       ],
@@ -105,7 +105,7 @@ const experience = {
   title: "Experience",
   subtitle: "",
   description:
-    "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
+    "I have worked mainly as a Web Developer in medium-sized companies. And now I'm exploring the mobile environment.",
   sections: [
     {
       title: "Companies",
@@ -148,8 +148,7 @@ const experience = {
 // Projects Page
 const projectsHeader = {
   title: "Projects",
-  description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
+  description: "",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -158,8 +157,7 @@ const contactPageData = {
   contactSection: {
     title: "Contact Me",
     profile_image_path: "memoji.png",
-    description:
-      "I am available on almost every social media. You can message me, I will reply within 24 hours. I can help you with ML, AI, React, Android, Cloud and Opensource Development.",
+    description: "Send me a message in the social medias below.",
   },
 };
 
