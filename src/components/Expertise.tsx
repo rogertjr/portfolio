@@ -1,7 +1,8 @@
 import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker, faPython } from '@fortawesome/free-brands-svg-icons';
+import { faReact, faDocker } from '@fortawesome/free-brands-svg-icons';
+import { IconProp } from "@fortawesome/fontawesome-svg-core";
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
 
@@ -34,7 +35,7 @@ function Expertise() {
             <h1>Hard Skills</h1>
             <div className="skills-grid">
                 <div className="skill">
-                    <FontAwesomeIcon icon={faReact} size="3x"/>
+                    <FontAwesomeIcon icon={faReact as IconProp} size="3x"/>
                     <h3>Web Development</h3>
                     <p>TBD.</p>
                     <div className="flex-chips">
@@ -46,7 +47,7 @@ function Expertise() {
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faDocker} size="3x"/>
+                    <FontAwesomeIcon icon={faDocker as IconProp} size="3x"/>
                     <h3>iOS Mobile Development</h3>
                     <p>TBD.</p>
                     <div className="flex-chips">
