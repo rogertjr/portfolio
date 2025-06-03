@@ -1,7 +1,6 @@
-import React from "react";
 import '@fortawesome/free-regular-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faReact, faDocker } from '@fortawesome/free-brands-svg-icons';
+import { faJs, faApple } from '@fortawesome/free-brands-svg-icons';
 import { IconProp } from "@fortawesome/fontawesome-svg-core";
 import Chip from '@mui/material/Chip';
 import '../assets/styles/Expertise.scss';
@@ -34,25 +33,23 @@ function Expertise() {
         <div className="skills-container">
             <h1>Hard Skills</h1>
             <div className="skills-grid">
-                <div className="skill">
-                    <FontAwesomeIcon icon={faReact as IconProp} size="3x"/>
-                    <h3>Web Development</h3>
-                    <p>TBD.</p>
+                 <div className="skill">
+                    <FontAwesomeIcon icon={faApple as IconProp} size="3x"/>
+                    <h3>iOS Native Development</h3>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
-                        {labelsFirst.map((label, index) => (
+                        {labelsSecond.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
                 </div>
 
                 <div className="skill">
-                    <FontAwesomeIcon icon={faDocker as IconProp} size="3x"/>
-                    <h3>iOS Mobile Development</h3>
-                    <p>TBD.</p>
+                    <FontAwesomeIcon icon={faJs as IconProp} size="3x"/>
+                    <h3>Web Development</h3>
                     <div className="flex-chips">
                         <span className="chip-title">Tech stack:</span>
-                        {labelsSecond.map((label, index) => (
+                        {labelsFirst.map((label, index) => (
                             <Chip key={index} className='chip' label={label} />
                         ))}
                     </div>
